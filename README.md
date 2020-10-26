@@ -1,2 +1,2 @@
-# -
-秒杀系统
+# Seckill
+Seckill
